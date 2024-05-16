@@ -1,0 +1,33 @@
+* {
+    font-family: 'Montserrat';
+}
+
+
+
+.card-login {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input.form-control {
+    width: 100%;
+    
+}
+
+.form-check {
+    margin-top: 12px;
+}
+
+.btn {
+    margin-top: 12px;
+}
+
+div.alert {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
